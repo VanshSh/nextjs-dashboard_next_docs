@@ -1,1 +1,1 @@
-## Current on which section:  [Chapter 5](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
+## Current on which section:  [Chapter 6](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
