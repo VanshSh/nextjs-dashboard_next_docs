@@ -1,1 +1,1 @@
-## Current on which section:  [Chapter 6](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
+## Current on which section:  [Chapter 8](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
